@@ -1,0 +1,11 @@
+# 忽略虚拟环境
+.venv/
+venv/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略测试缓存和报告
+.pytest_cache/
+reports/
